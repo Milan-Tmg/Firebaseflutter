@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This projects is simple todoapplication using flutter and firebase as backend services. This application has authentication screen for user sign in or login(if already registerd) and adding task list,editing and deleteing task.User data are stored in realtime database provided by firebase.Also provider is used for statemanagement for task list.
 
 A few resources to get you started if this is your first Flutter project:
 
